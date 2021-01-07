@@ -1,4 +1,8 @@
-### 👋 LexTego is an open source project for fraud and anti-money lundering solutions.  The solution is intended to work with Mojaloop from the Mojaloop Foundation. 
+### 👋 LexTego 
+
+LexTego is working on an open source project for fraud and anti-money laundering solutions.
+
+The solution is initially intended to work with Mojaloop from the Mojaloop Foundation. 
 
 <!--
 **lextego/lextego** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
